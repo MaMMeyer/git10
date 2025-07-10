@@ -14,7 +14,7 @@ body {
 }
 
 main {
-    margin: auto;
+    margin: auto; /*margim automatica*/
     width: 800px;
     height: 600px;
     border: 1px solid rgb(0, 255, 0);
@@ -29,9 +29,9 @@ main {
     font-size: 42px;
 }
 #fotogit{
-    width: 500px;
+    width: 500px; /*div foto*/
     height: 250px;
-    background: url(./_imagens/imagemgit.png);
+    background: url(./_imagens/imagemgit.png); /* foto*/
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: 70%;/* tamanho da foto*/
 }
